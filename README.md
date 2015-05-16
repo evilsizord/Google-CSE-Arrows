@@ -5,7 +5,9 @@ Automatically adds "Previous" and "Next" links to your Google Custom Search Engi
 When using Custom Search Element API version 2. For version 1 there is a better solution, but the version 1 API is
 deprecated by Google.
 
-The script is small and easy to use: just add to your page with an existing Google CSE version 2 search element.
+The script is small and easy to use: just add to your page with an existing Google CSE version 2 search element. 
+
+It should work fine with any of the various Google CSE layouts and options.
 
 Requires jQuery (any recent version).
 
